@@ -1,6 +1,6 @@
 # ROV-Simulation
 
-This is a C/C++ project to simulate ROV(Remotely Operated Vehicle) motion in deep-sea.
+This is a C/C++ project to simulate ROV(Remotely Operated Vehicle) motion in deep-sea.<br/>
 This project is writted by OPENGL 4.3
 
 ### Operation:
