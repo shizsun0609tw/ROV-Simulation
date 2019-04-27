@@ -1,7 +1,7 @@
 # ROV-Simulation
 
 This is a C/C++ project to simulate ROV(Remotely Operated Vehicle) motion in deep-sea.<br/>
-This project is written by OPENGL 4.3
+This project is written by OPENGL 4.3.
 
 ### Operation:
 * Change Control Mode: Key1(EYE), Key2(ROV), Key3(LIGHT)
