@@ -31,4 +31,4 @@ Demo Video: https://www.youtube.com/watch?v=nWtugU7TSyg
 * Shader: shader.vert, shader.frag
 
 ### Settings:
-* If you want to use Visual Studio to execute, you need to change enviroment to Debug/x64 and set Debug/environment "PATH=$(ProjectDir)\bin\"
+* If you want to use Visual Studio to execute, you need to change enviroment to Debug/x64 and set Project/Attribute/Debug/environment "PATH=$(ProjectDir)\bin\"
